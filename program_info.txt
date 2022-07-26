@@ -1,0 +1,14 @@
+name = "Coins_Info_Bot"
+version = "1"
+description = "Hello! Welcome to Coins Info Bot where you can view different information on cryptocurrencies."
+authors = {Karl Vincent Dimaculangan : karl.dimaculangan@obf.ateneo.edu,
+           Charles Joseph Vincent Lopez : charles.lopez@obf.ateneo.edu
+           Stephanie Managbanag : stephanie.managbanag@obf.ateneo.edu}
+
+requirements:
+    python = ">=3.8.0,<3.9"
+    numpy = "^1.22.2"
+    replit = "^3.2.4"
+    coinbase = "^2.1.0"
+    discord = "^1.7.3"
+    requests = "^2.28.1"
