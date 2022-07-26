@@ -1,7 +1,7 @@
 name = "Coins_Info_Bot"
 version = "1"
 description = "Hello! Welcome to Coins Info Bot where you can view different information on cryptocurrencies."
-authors = {Karl Vincent Dimaculangan : karl.dimaculangan@obf.ateneo.edu,
+programmers = {Karl Vincent Dimaculangan : karl.dimaculangan@obf.ateneo.edu,
            Charles Joseph Vincent Lopez : charles.lopez@obf.ateneo.edu
            Stephanie Managbanag : stephanie.managbanag@obf.ateneo.edu}
 
